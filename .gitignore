@@ -3,3 +3,4 @@ runner.py
 __pycache__/
 results/
 venv/
+.DS_Store
