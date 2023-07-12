@@ -2,3 +2,4 @@ weibo-spider/
 runner.py
 __pycache__/
 results/
+venv/
